@@ -1,0 +1,31 @@
+/* login page */
+
+.page-login{
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background: #ffc700;
+}
+
+
+.page-login .card-title img{
+  margin-top: 30px;
+}
+
+.page-login .card-title h3{
+  text-transform: uppercase;
+  color: #ffc700;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+#btn-login{
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.h100{
+  height: 100%;
+}
+
+/* login page */
